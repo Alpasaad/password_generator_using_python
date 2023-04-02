@@ -61,19 +61,6 @@ print(spass)
 
 
 
-# #craete the window 
-# window = tk.Tk()
-# window.title("password generator")
-# labal=tk.Label(text="My program will help you to generate password!")
-# window.geometry("500x100")
-# labal.pack()
-# window.configure(background="gray")
-# pass_length=tk.Label(window,text="length of password: ").place(x=30,y=50)
-# e1=tk.Entry(window).place(x=200,y=50)
-# submit_button=tk.Button(window,text="Submit").place(x=350,y=50)
-# pass_result=tk.Label(window,text="Your password: ").place(x=30,y=75)
-
-# window.mainloop()
 
 
 
